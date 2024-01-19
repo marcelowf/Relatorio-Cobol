@@ -2,9 +2,8 @@
        PROGRAM-ID. CBLZMW03.
       *-----------------------------------------------------------------
       * Author: Marcelo Wzorek Filho
-      * Date: xxxxxxxx
-      * Purpose: xxxxxxx
-      * Tectonics: Programa X com funcionalidade Y
+      * Date: 17/01/2024
+      * Purpose: Programa com funcionalidade de criar relatorio a partir de uma base de dados.
       * Updates:
       * dataxx - Marcelo - Create Program
       *-----------------------------------------------------------------
