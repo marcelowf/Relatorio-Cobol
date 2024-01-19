@@ -5,17 +5,17 @@
       * Date: 17/01/2024
       * Purpose: Programa com funcionalidade de criar relatorio a partir de uma base de dados.
       * Updates:
-      * dataxx - Marcelo - Create Program
+      * 170124 - Marcelo - Create Program
       *-----------------------------------------------------------------
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
        SELECT LISTA ASSIGN TO
-           'C:\VOLVO_ESTAGIO\IDE_COBOL\Exercício03\Devedores.txt'
+           'C:\Exercício03\Devedores.txt'
            FILE STATUS IS WK-STATUS-E.
 
        SELECT RELATORIO ASSIGN TO
-           'C:\VOLVO_ESTAGIO\IDE_COBOL\Exercício03\Relatorio.txt'
+           'C:\Exercício03\Relatorio.txt'
            FILE STATUS IS WK-STATUS-S.
 
        DATA DIVISION.
